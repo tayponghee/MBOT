@@ -1,4 +1,4 @@
-# The Amazeing-race  
+# The Amazeing Race  
 A robot that coordinates various robotic modules to navigate a pre-determined maze, made for the Arduino, in C++.
 
 - Automatic path correction using IR and Ultrasonic sensor  
